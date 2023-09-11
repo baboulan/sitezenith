@@ -1,0 +1,41 @@
+
+h1{
+    padding-left: 100px;
+}
+#none{
+    font-family: sans-serif;
+    padding-left: 100px;
+    }
+
+
+#none:link, #none:visited {
+    background-color: dodgerblue;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+#none:hover, #none:active {
+    background-color: #0000b3;
+}
+table{
+    border-collapse: collapse;
+    width: 30%;
+}
+th, td{
+    font-family: red;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color: lightgray;
+}
+th{
+    color: white;
+    background-color: dodgerblue;
+}
+
+
+
+
+</style>
